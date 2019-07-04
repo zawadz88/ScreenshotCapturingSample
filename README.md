@@ -1,6 +1,6 @@
 # ScreenshotCapturingSample
 
-This is a sample project with a failing UI test. It is used to show how to capture screenshots of failing tests automatically and embed them in JUnit reports.
+This is a sample project with a failing UI test. It is used to show how to capture screenshots of failing tests automatically and embed them in JUnit reports. More details available at https://medium.com/stepstone-tech/how-to-capture-screenshots-for-failed-ui-tests-9927eea6e1e4
 
 To run UI tests execute:
 ```
