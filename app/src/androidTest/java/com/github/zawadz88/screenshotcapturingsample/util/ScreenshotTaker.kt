@@ -1,6 +1,6 @@
 package com.github.zawadz88.screenshotcapturingsample.util
 
-import android.support.test.runner.screenshot.Screenshot
+import androidx.test.runner.screenshot.Screenshot
 import android.util.Log
 import java.io.IOException
 
